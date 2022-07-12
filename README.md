@@ -3,7 +3,7 @@
 <!-- <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="20"> -->
 
 <p><img width="300" height="320" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-I am a software engineer from India. My deal is building fast, beautiful and high-quality web apps using MERN Stack, but I have also worked as Linux Administrator (it was pretty fun!).
+I am a software engineer from Chennai. My deal is building fast, beautiful and high-quality web apps using MERN Stack, but I have also worked as Linux Administrator (it was pretty fun!).
 
 
 <ul>
