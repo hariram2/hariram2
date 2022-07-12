@@ -10,7 +10,7 @@ I am a software engineer from Chennai. My deal is building fast, beautiful and h
 <li>Front-End Web Developer</li>
 <li>Linux Administrator</li>
 <li>React Js & Node Js</li>
-<li>MYSQL</li>
+<li>MYSQL, MongoDb, Oracle</li>
 </ul>
 
 <br>
