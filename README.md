@@ -19,11 +19,15 @@ I am a software engineer from Chennai. My deal is building fast, beautiful and h
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MYSQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=MYSQL)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
@@ -33,3 +37,4 @@ I am a software engineer from Chennai. My deal is building fast, beautiful and h
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Centos-black?style=flat-square&logo=centos)
+
