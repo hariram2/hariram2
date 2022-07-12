@@ -1,63 +1,21 @@
-### Hi Guys, You Have Landed On World of Codings..... 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
-<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+# Hello! 👋️
+![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
 
-     
+I am a software engineer from Brazil. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
 
-      <div class="tags">
-        <div class="tag">Angular</div>
-        <div class="tag">Vue(X)</div>
-        <div class="tag">JavaScript</div>
-        <div class="tag">TypeScript</div>
-      </div>
-      <div class="tags">
-        <div class="tag">(S)CSS</div>
-        <div class="tag">Building UIs</div>
-        <div class="tag">Web Components</div>
-      </div>
-      <div class="tags">
-        <div class="tag">Ionic</div>
-        <div class="tag">Electron</div>
-        <div class="tag">.NET</div>
-      </div>
+Also, feel free to check what I've been rambling about on <a href="https://fantinel.dev" target="_blank">my blog</a>.
 
-    </div>
-  </foreignObject>
-</svg>
+<ul>
+<li>Front-End Web Developer</li>
+<li>Open Sourcerer</li>
+<li>Bullet List Enthusiast</li>
+</ul>
 
+## I am good at a few things:
 
- <style>
-        .tags {
-          display: flex;
-          flex-wrap: wrap;
-          height: 100%;
-          width: 100%;
-        }
-        .tag {
-          background-color: #E3FFFF;
-          border-radius: 0.25em;
-          color: #0ca4a5;
-          border: 1px solid #0ca4a5;
-          display: inline-block;
-          font-size: 0.75em;
-          line-height: 2em;
-          margin: 0.125em;
-          padding: 0 0.5em;
-          text-decoration: none;
-          font-family: sans-serif;
-        }
-      </style>
-**hariram2/hariram2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
