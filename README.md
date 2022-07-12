@@ -3,13 +3,14 @@
 
 # Hello! 👋️
 
-I am a software engineer from Brazil. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
+I am a software engineer from India. My deal is building fast, beautiful and high-quality web apps using MERN Stack, but I have also worked as Linux Administrator (it was pretty fun!).
 
 
 <ul>
 <li>Front-End Web Developer</li>
-<li>Open Sourcerer</li>
-<li>Bullet List Enthusiast</li>
+<li>Linux Administrator</li>
+<li>React Js & Node Js</li>
+<li>MYSQL</li>
 </ul>
 
 ## I am good at a few things:
