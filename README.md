@@ -1,18 +1,28 @@
 ****
-<h1 align="center">Hi 👋, It's Hari</h1>
+<h1 align="center">Hi Guys 👋</h1>
 <!-- <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="20"> -->
 
 <p><img width="300" height="320" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-I am a software engineer who is focused on front-end development. My specializations are website development, responsive design, and user-friendly interfaces. I have a solid knowledge of the JavaScript language, as well as strong skills in React, Redux, Redux-Toolkit, NodeJs. The quality, performance, and maintainability of applications I build are a top priority for me. Striving to be a lifelong learner, I am very interested to learn the cutting technology.
+<!-- I am a software engineer who is focused on front-end development. My specializations are website development, responsive design, and user-friendly interfaces. I have a solid knowledge of the JavaScript language, as well as strong skills in React, Redux, Redux-Toolkit, NodeJs. The quality, performance, and maintainability of applications I build are a top priority for me. Striving to be a lifelong learner, I am very interested to learn the cutting technology. -->
+
+### You can connect with me:
+
+[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/hariram2)
+<a href="www.linkedin.com/in/hariram2"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white" alt="Image" /><a/>
+[![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=555555&style=flat&logo=gmail&logoColor=red)](mailto:hari2.parames@gmail.com)
+
+<br />
+</h1>
+ 
+Hi, I'm [Hariram](https://github.com/hariram2), a passionate self-taught web developer and a tech enthusiastic. My passion for software lies with dreaming up new ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+- 💼 any freelance work? do reach, [email](mailto:hari2.parames@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
 <br/>
 <br/>
-<!-- <ul>
-<li>Full Stack Developer</li>
-<li>Front-End Web Developer</li>
-<li>Linux Administrator</li>
-<li>React Js & Node Js</li>
-<li>MYSQL, MongoDb, Oracle</li>
-</ul> -->
 
 
 
