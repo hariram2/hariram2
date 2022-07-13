@@ -22,8 +22,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - 💬 ask me about anything, i am happy to help;
 
 <br/>
-<br/>
-
 
 
 ### 🛠️ Languages and Tools:
