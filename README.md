@@ -6,13 +6,13 @@
 I am a software engineer who is focused on front-end development. My specializations are website development, responsive design, and user-friendly interfaces. I have a solid knowledge of the JavaScript language, as well as strong skills in React Redux, Redux-Toolkit, NodeJs, Html5, Css3, Bootstrap, PHP, Laravel, Mysql, Mongodb. The quality, performance, and maintainability of applications I build are a top priority for me. Striving to be a lifelong learner, I am very interested to learn the cutting technology.
 <br/>
 <br/>
-<ul>
+<!-- <ul>
 <li>Full Stack Developer</li>
 <li>Front-End Web Developer</li>
 <li>Linux Administrator</li>
 <li>React Js & Node Js</li>
 <li>MYSQL, MongoDb, Oracle</li>
-</ul>
+</ul> -->
 
 
 
