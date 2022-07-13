@@ -1,5 +1,5 @@
 ****
-<h1 align="center">Hi Guys 👋</h1>
+<h1 align="center">Hi 👋, It's Hari</h1>
 <!-- <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="20"> -->
 
 <p><img width="300" height="320" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
